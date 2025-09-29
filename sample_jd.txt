@@ -1,0 +1,8 @@
+We are hiring a Data Scientist with experience in:
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- NLP
+- Statistics
